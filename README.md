@@ -11,6 +11,5 @@
 | Lucius ![lucius](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/lucius-full.png) | A Melee Unit that Peirce other units and building<br /> Can Summon spikes from the ground to peirce its enemy<br />Its Slow<br /> Has a lot health <br/> Suggested To use High range turrets,<br /> strong walls and close range turrets||
 
 # Contribute to the wiki?
-You may Send the code
-or make a pull request
-You may also Go to my [Discord Sever](https://discord.gg/bWBGyty)
+You may Send the code on my [DiscordSever](https://discord.gg/bWBGyty)
+or make a [Pull Request](https://github.com/Zeniku/HeavyMachinery-Wiki/pulls) on This Repository
