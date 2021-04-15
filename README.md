@@ -11,6 +11,25 @@
 | Lucius<br />![lucius](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/lucius-full.png) | A Melee Unit that Peirce other units and building<br /> Can Summon spikes from the ground to peirce its enemy<br />Its Slow<br /> Has a lot health <br/> Suggested To use High range turrets,<br /> strong walls and close range turrets|
 | Machaera<br />![machaera](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/machaera-full.png) | A Melee Unit that Peirce other units and building<br /> Can Summon spikes from the ground to peirce its enemy<br />Its Slow<br /> Has a lot health <br/> Suggested To use High range turrets,<br /> strong walls and close range turrets|
 
+### Purple Air
+| **Unit** | **Description** |{}
+|:---:|:---|
+| Aranea<br /> ![aranea](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/aranea.png) | A Basi{}c unit That blows up when its near a enemy|
+
+## Guide For Buildings
+
+### Effect And Misc
+|Building| Description |
+|:---:|:---|
+|MiniCore<br />![miniCore](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/blocks/miniCore-full.png)| A Mini Core that can be placed anywhere|
+|StatusEffect Projector<br /> ![statusEffectProjector](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/blocks/statusEffectProjector.png)| A Block that heals unit and Burns enemies|
+
+### Production
+|Building| Description |
+|:---:|:---|
+|Lonsdaleite Compressor<br />![lonsdaleiteCompressor](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/blocks/lonsdaleite-compressor.png)|A Building tha Produces Lonsdaleite![lonsdaleite](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/items/lonsdaleite.png)|
+
 # Contribute to the wiki?
-You may Send the code on my [DiscordSever](https://discord.gg/bWBGyty)
+
+You may Send the code on my [Discord Sever](https://discord.gg/bWBGyty)
 or make a [Pull Request](https://github.com/Zeniku/HeavyMachinery-Wiki/pulls) on This Repository
