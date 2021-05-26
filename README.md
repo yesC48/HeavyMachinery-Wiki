@@ -2,9 +2,9 @@
 
 #### Contents:
 - *[Units]*
-  1. [Melee Units](https://github.com/Zeniku/HeavyMachinery-Wiki/wiki/units/MeleeUnit.md)
-  2. [Overseer Units](https://github.com/Zeniku/HeavyMachinery-Wiki/wiki/units/OverSeerUnit.md)
-  3. [Purple Air Units](https://github.com/Zeniku/HeavyMachinery-Wiki/wiki/units/PurpleAirUnits.md)
+  1. [Melee Units](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/wiki/units/MeleeUnits.md)
+  2. [Overseer Units](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/wiki/units/OverSeerUnit.md)
+  3. [Purple Air Units](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/wiki/units/PurpleAirUnits)
 - *[Blocks]*
   1. Production
   2. Turrets
