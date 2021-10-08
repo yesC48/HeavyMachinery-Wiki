@@ -2,17 +2,10 @@
 
 ### Contents:
 <details>
-  <summary>
-
-  **[Units]**
-
-  </summary>
+  <summary>[Units]</summary>
 
   <details>
-    <summary>
-    
-  **Melee Units**
-    </summary>
+    <summary>Melee Units</summary>
     
 | **Unit** | **Description** |
 |:---:|:---|
@@ -24,20 +17,14 @@
 
   </details>
   <details>
-    <summary>
-  
-  **Overseer Units**
-    </summary>
+    <summary>Overseer Units</summary>
   
 | **Unit** | **Description** |
 |:---:|:---|
 | Princeps<br /> ![princeps](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/princeps-full.png)|A Unit that Can control Its bullet <br />Use long range weapons against this unit<br /> It has low health<br /> Use this unit against hordes of units|
   </details>
   <details>
-    <summary>
-    
- **Purple Air Units**
-    </summary>
+    <summary>Purple Air Units</summary>
   
 | **Unit** | **Description** |
 |:---:|:---|
