@@ -2,7 +2,7 @@
 
 ### Contents:
 <details>
-  <summary>[Units]</summary>
+  <summary><b>[Units]</b></summary>
 <ul>
   <li><details>
     <summary>Melee Units</summary>
