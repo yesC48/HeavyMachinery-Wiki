@@ -4,17 +4,16 @@
 <details>
   <summary>
 
-  #### **[Units]**
+  **[Units]**
 
   </summary>
 
   <details>
     <summary>
     
- - **Melee Units**
-
+  **Melee Units**
     </summary>
-  
+    
 | **Unit** | **Description** |
 |:---:|:---|
 | Pugione<br />![pugione](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/pugione-full.png) |A Basic Melee Unit <br /> Its a very fast Unit <br /> It has medium health <br/> Suggested To use High range turrets,<br /> strong walls and close range turrets|
@@ -27,8 +26,7 @@
   <details>
     <summary>
   
- - **Overseer Units**
-
+  **Overseer Units**
     </summary>
   
 | **Unit** | **Description** |
@@ -38,8 +36,7 @@
   <details>
     <summary>
     
- - **Purple Air Units**
-
+ **Purple Air Units**
     </summary>
   
 | **Unit** | **Description** |
