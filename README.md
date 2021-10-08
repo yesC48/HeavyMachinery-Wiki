@@ -1,7 +1,8 @@
 ## Heavy Machinery-Wiki
 
 ### Contents:
-<details>
+<ul>
+<li><details>
   <summary><b>[Units]</b></summary>
 <ul>
   <li><details>
@@ -34,7 +35,25 @@
 | Interitus <br /> ![interitus](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/interitus-full.png)| This unit Has a big Cannon <br /> It has high health <br /> Recommended to use high damage turrets and high ranged turrets|
 | Eterius <br /> ![eterius](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/eterius-full.png)| This unit has a Large Laser Cannon and can stop basic bullets <br /> It has high health <br /> Recommended to use Plastanium Walls And Piercing Turrets|
   </details></li>
-</details>
+</ul>
+</details></li>
+
+<li><details>
+  <summary><b>[Blocks]</b></summary>
+<ul>
+  <li><details>
+    <summary>Effects</summary>
+    
+
+|Building| Description |
+|:---:|:---|
+|MiniCore<br />![miniCore](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/blocks/miniCore-full.png)| A Mini Core that can be placed anywhere|
+|StatusEffect Projector<br /> ![statusEffectProjector](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/blocks/statusEffectProjector.png)| A Block that heals unit and Burns enemies|
+  </details></li>
+</ul>
+</details></li>
+
+</ul>
 
 ### Contribute to the wiki?
 You may send them to:
