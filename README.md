@@ -1,15 +1,19 @@
 ## Heavy Machinery-Wiki
 
 ### Contents:
-
-- **[Units]**
-
 <details>
   <summary>
+
+  #### **[Units]**
+
+  </summary>
+
+  <details>
+    <summary>
     
  - **Melee Units**
 
-  </summary>
+    </summary>
   
 | **Unit** | **Description** |
 |:---:|:---|
@@ -19,24 +23,24 @@
 | Lucius<br />![lucius](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/lucius-full.png) | A Melee Unit that Peirce other units and building<br /> Can Summon spikes from the ground to peirce its enemy<br />Its Slow<br /> It has high health <br/> Suggested To use High range turrets,<br /> strong walls and close range turrets|
 | Machaera<br />![machaera](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/machaera-full.png) | A Melee Unit that Peirce other units and building<br /> Can Summon spikes from the ground to peirce its enemy<br />Its Slow<br /> It has high health <br/> Suggested To use High range turrets,<br /> strong walls and close range turrets|
 
-</details>
-<details>
-  <summary>
+  </details>
+  <details>
+    <summary>
   
  - **Overseer Units**
 
-  </summary>
+    </summary>
   
 | **Unit** | **Description** |
 |:---:|:---|
 | Princeps<br /> ![princeps](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/princeps-full.png)|A Unit that Can control Its bullet <br />Use long range weapons against this unit<br /> It has low health<br /> Use this unit against hordes of units|
-</details>
-<details>
-  <summary>
+  </details>
+  <details>
+    <summary>
     
  - **Purple Air Units**
 
-  </summary>
+    </summary>
   
 | **Unit** | **Description** |
 |:---:|:---|
@@ -45,6 +49,7 @@
 | Spiculum <br /> ![spiculum](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/spiculum-full.png) | This unit shoots a piercing laser when it moves <br /> It has medium health<br />Should recommend Parallax and distract it by scattering walls or conveyors|
 | Interitus <br /> ![interitus](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/interitus-full.png)| This unit Has a big Cannon <br /> It has high health <br /> Recommended to use high damage turrets and high ranged turrets|
 | Eterius <br /> ![eterius](https://github.com/Zeniku/HeavyMachinery-Wiki/blob/master/images/units/eterius-full.png)| This unit has a Large Laser Cannon and can stop basic bullets <br /> It has high health <br /> Recommended to use Plastanium Walls And Piercing Turrets|
+  </details>
 </details>
 
 ### Contribute to the wiki?
